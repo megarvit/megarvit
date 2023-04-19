@@ -9,8 +9,8 @@
 </a>
 </p>
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=megarvit&theme=tokyonight&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=megarvit&theme=tokyonight&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=megarvit&theme=highcontrast&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=megarvit&theme=highcontrast&show_icons=true" />
 </div>
 
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/megarvit/count.svg" alt="Visitor Count" /></h2>
